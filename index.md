@@ -42,33 +42,16 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 [**Day 1**](syllabus/1-Introduction.html) (10/26): Introduction  
 [**Day 2**](syllabus/2-One-Qbit.html) (10/28): Qubits  
 [**Day 3**](syllabus/3-Multi-Qbits.html) (11/02): Multiple Qubits  
-[**Day 4**](syllabus/) (11/04): Quantum Teleportation  
-[**Day 5**](syllabus/) (11/09): BB84  
-[**Day 6**](syllabus/) (11/11): Quantum Arithmetic and Logic  
-[**Day 7**](syllabus/) (11/16): Amplitude Amplification  
-[**Day 8**](syllabus/) (11/18): QFT: Quantum Fourier Transform  
-[**Day 9**](syllabus/) (11/23): Quantum Phase Estimation  
+[**Day 4**](syllabus/4-Teleportation.md) (11/04): Quantum Teleportation  
+[**Day 5**](syllabus/5-BB84.md) (11/09): BB84  
+[**Day 6**](syllabus/6-Arithmetic.md) (11/11): Quantum Arithmetic and Logic  
+[**Day 7**](syllabus/7-Amp-Amp.md) (11/16): Amplitude Amplification  
+[**Day 8**](syllabus/8-QFT.md) (11/18): QFT: Quantum Fourier Transform  
+[**Day 9**](syllabus/9-Quantum-Phase-Estimation.md) (11/23): Quantum Phase Estimation  
 **No Class** (11/25): Thanksgiving!  
-[**Day 10**](syllabus/) (11/30): Real Data  
-[**Day 11**](syllabus/) (12/02): Quantum Search  
-[**Day 12**](syllabus/) (12/07): Shor's Factoring Algorithm  
-[**Day 13**](syllabus/) (12/09):  
-
-## Schedule
-[**Week 1**](syllabus/1-Introduction.html) (1/20 & 1/22): Introduction  
-[**Week 2**](syllabus/2-One-Qbit-Two-Qbit.html) (1/27 & 1/29): Qubits and Gates  
-[**Week 3**](syllabus/3-Teleportation-Plus-Math.html) (2/3 & 2/5): Quantum Teleportation and Basic Arithmetic  
-[**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (2/10 & 2/12): Amplitude Amplification and Grover's  | **Submit team members**   
-[**Week 5**](syllabus/5-Cryptography.html) (2/17 & 2/19): Quantum Cryptography: BB84  
-[**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (2/24 & 2/26): Q Fourier Transform and Phase Estimation | **Project Proposals Due**  
-[**Week 7**](syllabus/7-Shors.html) (3/2 & 3/4): Shor's Algorithm  
-**No Class** (3/9 & 3/11)   
-[**Week 8**](syllabus/8-ErrorCorrection.html) (3/16 & 3/18): Quantum Error Correction and Quantum Annealing| **Guest Lecturer**   
-[**Week 9**](syllabus/9-NISQ.html) (3/23 & 3/25): Noisy Intermediate Scale Quantum Computing  | **Project Updates**
-[**Week 10**](syllabus/10-VQE-QAOA.html) (3/30 & 4/1): VQE and QAOA Optimization  
-[**Week 11**](syllabus/11-HHL.html) (4/6 & 4/8): HHL Algorithm for systems of linear equations | **Project Updates**  
-[**Week 12**](syllabus/12-QSVM.html) (4/13 & 4/15): Quantum Support Vector Machines   
-[**Week 13**](syllabus/13-Boltzmann.html) (4/20 & 4/22): Quantum Boltzmann Machines   
-[**Week 14**](syllabus/14-GoingForward.html) (4/27 & 4/29): Going Forward | **Final Project Presentations**
+[**Day 10**](syllabus/10-Real-Data.md) (11/30): Real Data  
+[**Day 11**](syllabus/11-Quantum-Search.md) (12/02): Quantum Search  
+[**Day 12**](syllabus/12-Shors.md) (12/07): Shor's Factoring Algorithm  
+[**Day 13**](syllabus/) (12/09): Hold for Guest Lecture
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
