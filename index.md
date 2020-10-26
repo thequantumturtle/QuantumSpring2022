@@ -13,7 +13,7 @@ Daniel Justice
 
 
 ## Location
-We currently have a room at 3SC 265. Due to circumstances, I cannot guarantee we will be able to use it and we may have to go virtual. It is my hope to see you all in person on October 26th. 
+We currently have a room at 3SC 265. I will be going in person as well as streaming via Zoom (Link on Piazza). I encourage you to come to class if it falls within your personal risk management system. 
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
@@ -52,6 +52,6 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 [**Day 10**](syllabus/10-Real-Data.md) (11/30): Real Data  
 [**Day 11**](syllabus/11-Quantum-Search.md) (12/02): Quantum Search  
 [**Day 12**](syllabus/12-Shors.md) (12/07): Shor's Factoring Algorithm  
-[**Day 13**](syllabus/) (12/09): Hold for Guest Lecture
+[**Day 13**](syllabus/) (12/09): David Bernal
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*

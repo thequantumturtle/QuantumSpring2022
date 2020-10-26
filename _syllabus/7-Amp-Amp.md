@@ -1,5 +1,5 @@
 ---
-Week: 7
+week: 7
 day: November 16
 title: Amplitude Amplification
 --- 
