@@ -1,6 +1,6 @@
 ---
-week: 4
-day: November 4
+week: 8
+day: March 23
 title: Quantum Teleportation
 ---
 
