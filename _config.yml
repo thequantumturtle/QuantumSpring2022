@@ -4,10 +4,10 @@
 courseName: "Programming Universal Gate Quantum Computers"
 
 # small title that is at the top of every page
-subtitle: "11-860 — Quantum Computing Lab: Self-Paced — Spring Semester 2021"
+subtitle: "11-860 — Quantum Computing Lab: Self-Paced — Spring Semester 2022"
 
 # baseurl is the same as the name of the repository
-baseurl: /QuantumSpring2021
+baseurl: /QuantumSpring2022
 
 # url where the required reading is available to download
 docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 

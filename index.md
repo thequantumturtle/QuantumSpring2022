@@ -8,18 +8,18 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
-Tuesday and Thursday (8:20am to 9:40am EST @ remote)   
-Rita Singh, Daniel Justice, Bhiksha Raj, Martin Bruder
+Tuesday and Thursday (1:25pm to 2:45pm EST @ BH235A)   
+Rita Singh, Daniel Justice, Bhiksha Raj, Prabh Simran
 
 
 ## Location
-This class will be remote and will be streamed via Zoom (Link on Piazza). 
+Baker Hall Room 235A
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
 
 ## Grading
-30% Homeworks, Group Project 30%, 10% Participation, 30% weekly quizzes.
+30% Homeworks, 30% Group Project, 10% Participation, 30% weekly quizzes.
 
 ## Quizzes
 Each week a quiz will be given. The worst one will not be counted.
