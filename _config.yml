@@ -1,10 +1,10 @@
 # configuration
 # fill in the course details
  
-courseName: "Programming Universal Gate Quantum Computers"
+courseName: "Quantum Computing Theory and Lab"
 
 # small title that is at the top of every page
-subtitle: "11-860 — Quantum Computing Lab: Self-Paced — Spring Semester 2022"
+subtitle: "11-860 — Quantum Computing Theory and Lab — Spring Semester 2022"
 
 # baseurl is the same as the name of the repository
 baseurl: /QuantumSpring2022
