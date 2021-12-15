@@ -62,4 +62,4 @@ There's a maximum score: 100 points.
 
 ## What to do in case of illness etc.
 
-If there is an emergency of an kind preventing you from attending please send an email.
+If there is an emergency of any kind preventing you from attending please send an email.

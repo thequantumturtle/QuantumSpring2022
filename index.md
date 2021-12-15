@@ -10,11 +10,15 @@ menuPosition: 1
 
 Tuesday and Thursday (1:25pm to 2:45pm EST @ BH235A)   
 ### Instructors: Daniel Justice, Bhiksha Raj, Rita Singh 
-### TA: Prabh Simran 
+### TA: Prabh Simran Billy-Bob Baweja 
 
 
 ## Location
 Baker Hall Room 235A
+
+## Important Links
+[**Piazza**](https://piazza.com/cmu/spring2022/11860/home): For announcements and communication.  
+[**Canvas**](https://canvas.cmu.edu/courses/26789): For those fun assignments that everyone likes to do. 
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
