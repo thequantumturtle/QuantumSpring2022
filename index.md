@@ -10,8 +10,12 @@ menuPosition: 1
 
 Tuesday and Thursday (1:25pm to 2:45pm EST @ BH235A)   
 ### Instructors: Daniel Justice, Bhiksha Raj, Rita Singh 
-### TA: Prabh Simran Billy-Bob Baweja 
+### TA: Prabh Simran Billy-Bob Baweja, Rakshit Naidu
 
+
+## Announcements!
+The first few classes will be done remotely! Do **NOT** show up to BH235A or else you will be lonely!
+Class can be found on Zoom right [**HERE**](https://cmu.zoom.us/j/99336666941?pwd=cjFoaUgzY1ZKSSt4N01CZm9nYWxTQT09).
 
 ## Location
 Baker Hall Room 235A
