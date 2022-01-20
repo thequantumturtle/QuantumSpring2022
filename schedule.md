@@ -16,6 +16,7 @@ You can download all required reading in the [Study materials]({{ site.docsUrl }
   	{% for tag in week.tags %}
   		<b>#{{ tag }}</b>
   	{% endfor %}
-  	<!-- ({{ week.day }})</li> -->
+  	<!-- ({{ week.day }}) -->
+	  </li>
 {% endfor %}
 </ol>
