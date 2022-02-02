@@ -10,7 +10,7 @@ menuPosition: 1
 
 Tuesday and Thursday (1:25pm to 2:45pm EST @ BH235A)   
 ### Instructors: Daniel Justice, Bhiksha Raj, Rita Singh 
-### TA: Prabh Simran Billy-Bob Baweja, Rakshit Naidu
+### TA: Rakshit Naidu
 
 
 ## Announcements!
