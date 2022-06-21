@@ -9,8 +9,8 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 Tuesday and Thursday (1:25pm to 2:45pm EST @ BH235A)   
-### Instructors: Daniel Justice, Bhiksha Raj, Rita Singh 
-### TA: Rakshit Naidu
+### Instructors: [Daniel Justice](https://thequantumturtle.github.io/), Bhiksha Raj, Rita Singh 
+### TA: <a href="https://r0cketr1kky.github.io/" target="_blank">Rakshit Naidu</a>
 
 
 ## Announcements!
